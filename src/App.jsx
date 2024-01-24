@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <div>
-      <h1>A mandate That Divinity May Be Express in Mortality Through The Ministry Of worship  </h1>
+      <h1>A mandate That Divinity May Be Express in Mortality Through The Ministry Of worship.  </h1>
 
       <ReactPlayer
       url={vidURL}
